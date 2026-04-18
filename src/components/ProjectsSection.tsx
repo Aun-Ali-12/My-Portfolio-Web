@@ -29,7 +29,7 @@ const projects: Project[] = [
     ],
     tech: ["React", "Supabase", "TailwindCSS", "Recharts"],
     color: "from-primary/20 to-primary/5",
-    liveUrl: "https://6998aa8b04d1237c5056f1d7--ecomwebbb.netlify.app/",
+    liveUrl: "https://ecomwebbb.netlify.app/",
   },
   {
     url: "https://github.com/Aun-Ali-12/React-Post-App",
@@ -45,7 +45,7 @@ const projects: Project[] = [
     ],
     tech: ["React", "Supabase", "TailwindCSS"],
     color: "from-primary/15 to-transparent",
-    liveUrl: "aun-ali-12.github.io/React-Post-App/",
+    liveUrl: "https://aun-ali-12.github.io/React-Post-App/",
   },
   {
     url: "https://github.com/Aun-Ali-12/React-Weather-App",
